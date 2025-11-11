@@ -9,6 +9,15 @@ UPI AutoSave sneaks micro-savings into daily payments — round-ups, goal-based 
 
 ---
 
+## ✦ Links
+
+| Thing | Link |
+|-------|------|
+| PRD (Notion) | [_link here_](https://ivory-supernova-273.notion.site/Product-Requirements-Document-PRD-UPI-AutoSave-285f291503658006be47fc7130fb6be4) |
+| Figma Wireframes | _link here_ |
+
+---
+
 ## ✦ What this project is
 
 - I wrote a **Product Requirements Document (PRD)**
@@ -20,15 +29,6 @@ All of this is based on:
 - 100+ app reviews (GPay, PhonePe, Jar, Gullak, etc.)
 - A simple insight:  
   *People want to save — the UI just doesn't make it effortless.*
-
----
-
-## ✦ Links
-
-| Thing | Link |
-|-------|------|
-| PRD (Notion) | [_link here_](https://ivory-supernova-273.notion.site/Product-Requirements-Document-PRD-UPI-AutoSave-285f291503658006be47fc7130fb6be4) |
-| Figma Wireframes | _link here_ |
 
 ---
 
