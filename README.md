@@ -14,7 +14,7 @@ UPI AutoSave sneaks micro-savings into daily payments — round-ups, goal-based 
 | Thing | Link |
 |-------|------|
 | PRD (Notion) | [_link here_](https://ivory-supernova-273.notion.site/Product-Requirements-Document-PRD-UPI-AutoSave-285f291503658006be47fc7130fb6be4) |
-| Figma Wireframes | _link here_ |
+| Figma Wireframes (Prototype) | [_link here_](https://www.figma.com/proto/S36p0BvNPvIbp25Qppjxmk/Untitled?node-id=1-2&p=f&t=o21lSDnhALAa2r64-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)|
 
 ---
 
