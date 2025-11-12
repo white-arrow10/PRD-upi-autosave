@@ -1,20 +1,20 @@
 # UPI AutoSave
 
+## ✦ Links
+
+| Project Element | Link |
+|-------|------|
+| PRD (Notion) | [_click here_](https://ivory-supernova-273.notion.site/Product-Requirements-Document-PRD-UPI-AutoSave-285f291503658006be47fc7130fb6be4) |
+| Figma Wireframes (Prototype) | [_click here_](https://www.figma.com/proto/S36p0BvNPvIbp25Qppjxmk/Untitled?node-id=1-2&p=f&t=o21lSDnhALAa2r64-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)|
+
+---
+
 A small case study where I explored a simple idea:
 
 > What if saving money happened *automatically* every time you paid with UPI?
 
 Instead of telling Gen-Z to “build discipline,”  
 UPI AutoSave sneaks micro-savings into daily payments — round-ups, goal-based nudges, and tiny wins.
-
----
-
-## ✦ Links
-
-| Thing | Link |
-|-------|------|
-| PRD (Notion) | [_link here_](https://ivory-supernova-273.notion.site/Product-Requirements-Document-PRD-UPI-AutoSave-285f291503658006be47fc7130fb6be4) |
-| Figma Wireframes (Prototype) | [_link here_](https://www.figma.com/proto/S36p0BvNPvIbp25Qppjxmk/Untitled?node-id=1-2&p=f&t=o21lSDnhALAa2r64-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)|
 
 ---
 
@@ -36,7 +36,7 @@ All of this is based on:
 
 1. You pay someone on UPI  
 2. Success screen pops up  
-3. AutoSave quietly asks: *“Want to save ₹3?”*  
+3. AutoSave quietly asks: *“Want to save ₹4?”*  
 4. You tap nothing, it saves anyway 🤫
 
 You spend → you save.  
